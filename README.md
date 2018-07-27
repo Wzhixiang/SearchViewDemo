@@ -1,7 +1,7 @@
 ### 自定义搜索View
     通过ValueAnimator、Path和PathMeasure实现
 
-![效果](https://github.com/Wzhixiang/SearchViewDemo/blob/master/screenRecord/device-2018-07-27-113156.git)
+![效果](https://github.com/Wzhixiang/SearchViewDemo/blob/master/screenRecord/device-2018-07-27-113156.gif)
 
 #### 如何使用
 1.在布局中，duration是周期，strokeColor图标颜色<br>
